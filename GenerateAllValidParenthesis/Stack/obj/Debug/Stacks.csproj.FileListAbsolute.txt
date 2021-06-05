@@ -1,0 +1,6 @@
+C:\Users\Vishwas\source\repos\GenerateAllValidParenthesis\Stack\obj\Debug\Stacks.csprojAssemblyReference.cache
+C:\Users\Vishwas\source\repos\GenerateAllValidParenthesis\Stack\bin\Debug\Stack.exe.config
+C:\Users\Vishwas\source\repos\GenerateAllValidParenthesis\Stack\bin\Debug\Stack.exe
+C:\Users\Vishwas\source\repos\GenerateAllValidParenthesis\Stack\bin\Debug\Stack.pdb
+C:\Users\Vishwas\source\repos\GenerateAllValidParenthesis\Stack\obj\Debug\Stack.exe
+C:\Users\Vishwas\source\repos\GenerateAllValidParenthesis\Stack\obj\Debug\Stack.pdb
