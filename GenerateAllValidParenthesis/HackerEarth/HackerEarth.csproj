@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{180A2B04-1A05-4286-BECA-61D1C79A3C09}</ProjectGuid>
+    <ProjectGuid>{AF67BC08-CDD2-4943-BBF8-1A4D304E514C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Stack</RootNamespace>
-    <AssemblyName>Stack</AssemblyName>
+    <RootNamespace>HackerEarth</RootNamespace>
+    <AssemblyName>HackerEarth</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,13 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MaximumFrequencyStack.cs" />
-    <Compile Include="MinStack.cs" />
-    <Compile Include="PassGame.cs" />
+    <Compile Include="AirportLimousine.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RemoveConsecutivePairs.cs" />
-    <Compile Include="SortUsingStack.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

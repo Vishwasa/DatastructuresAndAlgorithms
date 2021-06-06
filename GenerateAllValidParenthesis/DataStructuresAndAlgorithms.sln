@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trees", "Trees\Trees.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks", "Stack\Stacks.csproj", "{180A2B04-1A05-4286-BECA-61D1C79A3C09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "ConsoleApp1\Strings.csproj", "{76036C94-1668-4486-8BAD-898FD0D57DD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{180A2B04-1A05-4286-BECA-61D1C79A3C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{180A2B04-1A05-4286-BECA-61D1C79A3C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{180A2B04-1A05-4286-BECA-61D1C79A3C09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76036C94-1668-4486-8BAD-898FD0D57DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76036C94-1668-4486-8BAD-898FD0D57DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76036C94-1668-4486-8BAD-898FD0D57DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76036C94-1668-4486-8BAD-898FD0D57DD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

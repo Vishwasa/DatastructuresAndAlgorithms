@@ -4,16 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Stack
+namespace HackerEarth
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //MaximumFrequencyStack.frequencyOfAstack();
-            //SortUsingStack.sort();
-            RemoveConsecutivePairs.removeDuplicateChar();
-            Console.ReadKey();
+            AirportLimousine.solve();
+            MatchingQueries.MatchingString();
+            Console.ReadLine();
         }
     }
 }

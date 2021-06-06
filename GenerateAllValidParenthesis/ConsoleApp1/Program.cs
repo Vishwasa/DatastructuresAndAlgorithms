@@ -4,16 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Stack
+namespace ConsoleApp1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //MaximumFrequencyStack.frequencyOfAstack();
-            //SortUsingStack.sort();
-            RemoveConsecutivePairs.removeDuplicateChar();
-            Console.ReadKey();
+            CyclicPermutations.CheckTheCount();
+            Console.ReadLine();
         }
     }
 }
